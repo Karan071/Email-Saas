@@ -1,0 +1,12 @@
+# Tech Stack 
+- Clerk Auth
+- Next
+- Prisma
+- Tailwind
+- Neon DB
+- PostGres
+- Stripe
+- Vercel
+- OpenAi
+- Orama - [https://orama.com/]
+- Aurinko - [https://www.aurinko.io/]{Email management}
