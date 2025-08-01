@@ -19,3 +19,4 @@ Implementation in the application
 - Al smart responses (email writing like copilot)
 - Command K (shortcuts)
 - Stripe payment setup
+
